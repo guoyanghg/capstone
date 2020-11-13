@@ -1,7 +1,7 @@
 # Image Segmentation iOS sample
 
-<img src="https://github.com/favicon.ico" width="270" height="540">
-<img src="https://github.com/favicon.ico" width="270" height="540">
+<img src="mobilelogin.png" width="270" height="540">
+<img src="literesult.png" width="270" height="540">
 
 ## Requirements
 
