@@ -1,8 +1,8 @@
 # Image Segmentation iOS sample
-
+<p float="left">
 <img src="mobilelogin.png" width="270" height="540">
 <img src="literesult.png" width="270" height="540">
-
+</p>
 ## Requirements
 
 *  Xcode 10.3 (installed on a Mac machine)
