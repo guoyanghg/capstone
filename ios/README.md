@@ -1,7 +1,7 @@
 # Image Segmentation iOS sample
 
-![Screenshot](mobilelogin.png =270x540)
-![Screenshot](literesult.png)
+<img src="https://github.com/favicon.ico" width="270" height="540">
+<img src="https://github.com/favicon.ico" width="270" height="540">
 
 ## Requirements
 
