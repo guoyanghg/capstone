@@ -1,6 +1,6 @@
 # Image Segmentation iOS sample
 
-![Screenshot](mobilelogin.png)
+![Screenshot](mobilelogin.png =270x540)
 ![Screenshot](literesult.png)
 
 ## Requirements
