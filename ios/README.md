@@ -1,4 +1,4 @@
-# DALS Cell Segmentation iOS sample
+# DALS Cell Segmentation iOS 
 This project developed based Tensorflow-lite official template
 
 <p float="left">
@@ -22,7 +22,7 @@ application.<br/>
 ```cd ./ios && pod install```<br/>
 Note: If you have installed this pod before and that command doesn't work, try ```pod update```.<br/>
 At the end of this step you should have a directory called ```ImageSegmentation.xcworkspace```.
-1. Download the tensorflow-lite model then copy "model" folder under "ImageSegmentation" folder<br/>
+1. Download the tensorflow-lite model by <a href="https://drive.google.com/file/d/1fulEL2mnsiMvzZz9yBZniPOIhnkzq1e9/view?usp=sharing">Google Drive</a> then copy "model" folder under "ImageSegmentation" folder<br/>
 1. Open the project in Xcode with the following command:<br/>
 ```open ImageSegmentation.xcworkspace```<br/>
 This launches Xcode and opens the ```ImageSegmentation``` project.
