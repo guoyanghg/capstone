@@ -1,8 +1,7 @@
 # Web and Mobile Application Framework of Deep Learning Nucleus Segmentation 
+Repositoy for Yang's Master's Capstone project. 
 
 <img src="index.png">
-
-Repositoy for Yang's Master's Capstone project. 
 
 In this project, We developed an end-to-end nucleus segmentation application consisting of three subparts - algorithms, web interface, and mobile application. 
 
@@ -17,7 +16,7 @@ Then setup the conda environment:
 conda create --name tf_gpu tensorflow-gpu==1.15.0 
 ```
 
-To avoid the version comflict, we install Pytorch 1.5 using pip instead of conda:
+To avoid the version conflict, we install Pytorch 1.5 using pip instead of conda:
 
 ```
 # CUDA 10.2
@@ -41,6 +40,7 @@ pip install -r requirments.txt
 Download the trained model by ... and copy "network" folder under "serverend" folder. Then follow the instruction below:
 
 ```
+conda activate tf_gpu
 cd ././server
 python webapp.py
 ```
