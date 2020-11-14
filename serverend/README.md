@@ -3,7 +3,7 @@
 
 Repositoy for Yang's Master's Capstone project. 
 
-In this project, WE developed an end-to-end nucleus segmentation application consisting of three subparts - algorithms, web interface, and mobile application. 
+In this project, We developed an end-to-end nucleus segmentation application consisting of three subparts - algorithms, web interface, and mobile application. 
 
 
 # Environment Setup
@@ -35,5 +35,14 @@ pip install -r requirments.txt
 ```
 
 
-# Arguments 
+# Getting started
+
+Download the trained model by ... and copy "network" folder under "serverend" folder. Then follow the instruction below:
+
+```
+cd ././server
+python webapp.py
+```
+
+Find your local IP address, and visit https:YourHost:5000/
 
