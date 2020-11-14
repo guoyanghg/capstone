@@ -37,7 +37,7 @@ pip install -r requirments.txt
 
 # Getting started
 
-Download the trained model by ... and copy "network" folder under "serverend" folder. Then follow the instruction below:
+Download the trained model by <a href="https://drive.google.com/file/d/1fulEL2mnsiMvzZz9yBZniPOIhnkzq1e9/view?usp=sharing">Google Drive</a> and copy "network" folder under "serverend" folder. Then follow the instruction below:
 
 ```
 conda activate tf_gpu
