@@ -1,5 +1,6 @@
 # Web and Mobile Application Framework of Deep Learning Nucleus Segmentation 
 
+<img src="index.png">
 
 Repositoy for Yang's Master's Capstone project. 
 
