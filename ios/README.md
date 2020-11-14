@@ -1,5 +1,5 @@
 # DALS Cell Segmentation iOS 
-This project developed based Tensorflow-lite official template
+This project developed based on Tensorflow-lite official template.
 
 <p float="left">
 <img src="mobilelogin.png" width="270" height="540">
