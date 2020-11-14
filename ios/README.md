@@ -26,5 +26,6 @@ At the end of this step you should have a directory called ```ImageSegmentation.
 1. Open the project in Xcode with the following command:<br/>
 ```open ImageSegmentation.xcworkspace```<br/>
 This launches Xcode and opens the ```ImageSegmentation``` project.
+1. Setup the server first then modify LoginViewController line 47, change the hostip into your server IP(make sure your mobile testing device and server be in the same local network)
 1. Select `Product -> Run` to install the app on an iOS Simulator or a physical
 device.
